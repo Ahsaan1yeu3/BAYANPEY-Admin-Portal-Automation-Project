@@ -1,0 +1,15 @@
+﻿Financing ID,Business Name,Customer Code,Order ID,Finance Amount,Finance Date,Finance Due Date,Financing Status,Sales Office,Division
+50,Ahsaan Mini Mart,554532,1365,356,"May 30, 2025","Jun 06, 2025",Paid,KS1,01
+49,Ahsaan Mini Mart,554532,1368,894,"May 30, 2025","Jun 06, 2025",Paid,KS1,01
+48,Salman Super Store,113146,1352,977,"May 20, 2025","May 27, 2025",Paid,KS1,01
+47,Salman Super Store,113146,1351,626,"May 20, 2025","May 27, 2025",Unpaid,KS1,01
+46,Salman Super Store,113146,1350,898,"May 20, 2025","May 27, 2025",Unpaid,KS1,01
+45,Salman Super Store,113146,1349,36,"May 20, 2025","May 27, 2025",Paid,KS1,01
+44,Salman Super Store,113146,1348,827,"May 20, 2025","May 27, 2025",Unpaid,KS1,01
+43,Salman Super Store,113146,1347,708,"May 20, 2025","May 27, 2025",Unpaid,KS1,01
+42,Salman Super Store,113146,1346,161,"May 20, 2025","May 27, 2025",Unpaid,KS1,01
+12,Nasir Traders,51111289,1119,10000,"May 08, 2025","May 15, 2025",Unpaid,C01,01
+11,Nasir Traders,51111289,1118,10000,"May 08, 2025","May 15, 2025",Paid,C01,01
+10,Nasir Traders,51111289,1117,10000,"May 08, 2025","May 15, 2025",Paid,C01,01
+2,Nasir Traders,51111289,1112,10000,"May 07, 2025","May 14, 2025",Unpaid,C01,01
+1,Nasir Traders,51111289,1111,10000,"May 07, 2025","May 14, 2025",Paid,C01,01

@@ -1,0 +1,5 @@
+﻿Customer Number,Customer Name,Sales Office,Division,Cnic,Mobile No,Image,Limit,Duration,Creating Date,Updating Date,Customer Status,Customer Verification Status
+33,Ahsaan Mini Mart,N/A,N/A,42201-3447078-1,03142554532,N/A,N/A,N/A,"May 30, 2025",N/A,N/A,Onboarding Completed
+32,Salman Super Store,N/A,N/A,42101-4212610-5,03422113146,N/A,N/A,N/A,"May 20, 2025",N/A,N/A,Onboarding Completed
+31,Ali Raza Retail Store,N/A,N/A,42101-0684717-3,03018267594,N/A,N/A,N/A,"May 19, 2025",N/A,N/A,Onboarding Completed
+1,Nasir Traders,N/A,N/A,42101-2192720-9,03161037585,N/A,N/A,N/A,"May 07, 2025",N/A,N/A,CNIC Verified

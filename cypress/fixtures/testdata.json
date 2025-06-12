@@ -1,0 +1,35 @@
+{
+  "login": {
+    "username": "admin@lovefordata.com",
+    "password": "Admin@123"
+  },
+  "onboarded": {
+    "searchTerm": "Ahsaan Mini Mart"
+  },
+  "customerorder": {
+    "customerId": "1368"
+  },
+  "adminuser": {
+    "name": "Ahsaan Hassan",
+    "email": "ahsaankhan34@gmail.com",
+    "designation": "Teacher",
+    "password": "Ahsaan12*",
+    "confirmPassword": "Ahsaan12*"
+  },
+  "transaction": {
+    "filterId": "47"
+  },
+  "repayment": {
+    "searchTerm": "Ahsaan Mini Mart"
+  },
+  "otp": {
+    "mobileNo": "03142554532"
+  },
+  "createrole":{
+    "roletitle":"Manager"
+  },
+  "userrolelist":{
+    "title":"Manager"
+  }
+
+}
